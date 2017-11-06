@@ -155,6 +155,7 @@ public class PlayerController : MonoBehaviour {
                     {
                         PlayerPrefs.SetInt("RECORDE", (int)combustivel);
                     }
+                    gc.OnGameWin();
                 }
                 break;
             default:

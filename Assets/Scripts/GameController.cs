@@ -74,7 +74,7 @@ public class GameController : MonoBehaviour {
 
     public void OnGameWin()
     {
-        menuGameOver.SetActive(true);
+        menuGameWin.SetActive(true);
         gameHUD.SetActive(false);
     }
 
