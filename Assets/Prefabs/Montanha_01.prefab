@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 212862630059514406}
   - component: {fileID: 60777749778333514}
   - component: {fileID: 68805573509699694}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Montanha_01
   m_TagString: Montanha
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1784188790395414}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.4, y: -2.1, z: 0}
+  m_LocalPosition: {x: 12.2, y: -12.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

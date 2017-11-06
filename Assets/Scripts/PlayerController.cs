@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour {
 
         RaycastHit2D hit = Physics2D.Raycast(transform.position,  -Vector2.up, 100f, raycastLayerMask);
 
-        if (hit)
+        if (hit.collider != null)
         {
             altitude = Mathf.Abs(hit.point.y - transform.position.y);
         }

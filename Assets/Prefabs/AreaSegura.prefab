@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4645410595184178}
   - component: {fileID: 212812313365440932}
   - component: {fileID: 95364495711255784}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LuzAreaSegura (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37,7 +37,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4488023416601562}
   - component: {fileID: 212579264784238572}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LuzEfeito
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54,7 +54,7 @@ GameObject:
   - component: {fileID: 4409348191669502}
   - component: {fileID: 212239276356307242}
   - component: {fileID: 95872327750168992}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LuzAreaSegura
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,7 +71,7 @@ GameObject:
   - component: {fileID: 4895969673438902}
   - component: {fileID: 212546083110488206}
   - component: {fileID: 61957162424874900}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: AreaSegura
   m_TagString: AreaSegura
   m_Icon: {fileID: 0}
@@ -87,7 +87,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4924907571240138}
   - component: {fileID: 212081745934892136}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LuzEfeito
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142,7 +142,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1867213885247436}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -23, y: -9.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4409348191669502}

@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4371202360207312}
   - component: {fileID: 212564431009585408}
   - component: {fileID: 60167902094684420}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Montanha_04
   m_TagString: Montanha
   m_Icon: {fileID: 0}

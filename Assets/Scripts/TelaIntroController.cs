@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TelaIntroController : MonoBehaviour {
 
@@ -34,5 +35,15 @@ public class TelaIntroController : MonoBehaviour {
             PlayerPrefs.DeleteKey("RECORDE");
             hudRecord.text = "RECORDE: NÃO HÁ RECORDES";
         }
+    }
+
+    public void Play()
+    {
+        SceneManager.LoadScene("Game");
+    }
+
+    public void Sair()
+    {
+        Application.Quit();
     }
 }
